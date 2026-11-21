@@ -1,0 +1,29 @@
+Date,Client,Contact,Department,Region,Payment,Revenue,Profit,Profit Margin
+2023-05-30,"amazon.com, inc.",Bill Smith,Cloud Tech,Texas,Transfer,4500.0,598,0.1328888888888889
+2023-05-30,"the goldman sachs group, inc.",David Rasmussen,Operations,Florida,Check,5000.0,684,0.1368
+2023-05-30,the procter & gamble company,Nyla Novak,Operations,Florida,NA,,779,NA
+2023-05-30,"netflix, inc.",Harley Fritz,Strategy,New York,NA,3712.5,1009,0.2717845117845118
+2023-05-30,"tesla, inc.",Ken Singh,Strategy,New York,PayPal,3800.0,1045,0.275
+2023-05-31,mcdonald's corporation,Steven Michael,Big Data,California,Check,4500.0,780,0.17333333333333334
+2023-05-31,bank of america corporation,Kylee Townsend,Cloud Tech,Texas,Card,3600.0,1564,0.43444444444444447
+2023-05-31,citigroup inc.,Jordan Boone,Cloud Tech,Texas,Transfer,3800.0,2045,0.5381578947368421
+2023-05-31,jpmorgan chase & co.,Ivan Hiney,Cloud Tech,Texas,Transfer,6100.0,544,0.08918032786885247
+2023-05-31,morgan stanley,Jonha Ma,Cloud Tech,Texas,Transfer,4625.0,670,0.14486486486486486
+2023-05-31,target corporation,Brendan Wallace,Cloud Tech,Texas,Check,4750.0,1435,0.3021052631578947
+2023-05-31,walmart inc.,Nora Rollins,Cloud Tech,Texas,Check,5100.0,1220,0.23921568627450981
+2023-05-31,costco wholesale corporation,Conor Wise,Operations,Florida,Transfer,6000.0,998,0.16633333333333333
+2023-06-01,at&t inc.,Bruno Cordova,Big Data,California,Transfer,5087.5,655,0.12874692874692875
+2023-06-01,exxon mobil corporation,Lucia Mckay,Big Data,California,Card,,1044,NA
+2023-06-01,general motors company,Bruce Rich,Big Data,California,Card,4250.0,901,0.212
+2023-06-01,intel corporation,Jaylynn Napp,Big Data,California,Transfer,4500.0,722,0.16044444444444445
+2023-06-01,"the home depot, inc.",Franklin Wrigt,Big Data,California,Transfer,4950.0,1065,0.21515151515151515
+2023-06-01,verizon communications inc.,Jose Roach,Big Data,California,Transfer,3712.5,1222,0.32915824915824915
+2023-06-01,chevron corporation,Denzel Flores,Operations,Florida,Transfer,7320.0,933,0.12745901639344262
+2023-06-01,"cisco systems, inc.",Alia Thornton,Operations,Florida,Transfer,4750.0,810,0.1705263157894737
+2023-06-02,microsoft corporation,Arturo Moore,Big Data,California,PayPal,5250.0,1349,0.25695238095238093
+2023-06-02,comcast corporation,Bryce Carpenter,Strategy,New York,PayPal,6500.0,1288,0.19815384615384615
+2023-06-02,dell technologies inc.,Jaidyn Andersen,Strategy,New York,PayPal,7500.0,1664,0.22186666666666666
+2023-06-02,fedex corporation,Harry Lee,Strategy,New York,Transfer,4625.0,1001,0.21643243243243243
+2023-06-02,general electric company,Josh Johnson,Strategy,New York,Transfer,4500.0,960,0.21333333333333335
+2023-06-02,johnson & johnson,Mark Walm,Strategy,New York,Transfer,5500.0,1320,0.24
+2023-06-02,lockheed martin corporation,Mik Naam,Strategy,New York,Card,5400.0,540,0.1
